@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9in8qHjaL9hjcMiQLm5bmo2MmqMSmuk6gBHesXB1LQoRGHXbUBRne+7Hub/4xkcuNtZKZtfpqNjVzBGPGhWgw==",
+  "success": true,
+  "projectFilePath": "D:\\ZDRAVKO\\Visual Studio\\WebScrapingProducts\\WebScrapingProducts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
